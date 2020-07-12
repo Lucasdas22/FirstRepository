@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "welcome", "welcome", "{03ED5F83-CD9F-4513-B46B-81F834BC90DF}"
+	ProjectSection(SolutionItems) = preProject
+		main.html = main.html
+		main.css = main.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{8ADF41DC-490A-45D1-84EE-AB209BF75FC1}"
+	ProjectSection(SolutionItems) = preProject
+		CTRLtech.png = CTRLtech.png
+		CTRLtech_white.png = CTRLtech_white.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "home", "home", "{5A6A9DB8-3CDB-4E69-951B-C83C223B1BF9}"
+	ProjectSection(SolutionItems) = preProject
+		home.html = home.html
+		home.css = home.css
+		home.js = home.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+EndGlobal

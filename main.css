@@ -1,0 +1,36 @@
+﻿body {
+    background-color: #b5eeb0;
+}
+
+.header {
+    display: block;
+    margin-left: 100px;
+}
+
+.greeting {
+    text-align: center;
+    font-size: x-large;
+    display: block;
+    padding-top: 25px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    display: inline-block;
+    text-align: center;
+    border: none;
+    background-color: green;
+    font-size: 24px;
+    padding: 20px;
+    width: 100px;
+    border-radius: 7%;
+}
+
+img {
+    width: 300px;
+    height: 175px;
+}
